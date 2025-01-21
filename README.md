@@ -8,7 +8,7 @@ This can be used to keep track of works which require a counter. To start buildi
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+    https://github.com/SatyamRaj1905/Counter-with-React.git
     ```
 
 1. Install the required packages.
