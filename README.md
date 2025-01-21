@@ -1,10 +1,10 @@
-# React & Tailwind CSS Starter Pack
+# Counter by React
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+This is a simple counter app which can increase or decrease the value with an additional functionality of reset the value at any point of time
 
 ## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+This can be used to keep track of works which require a counter. To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
